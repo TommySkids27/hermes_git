@@ -1,0 +1,12 @@
+folium
+pyautogui
+clipboard
+opencv-python
+folium
+keyboard
+numpy
+pygame
+pyautogui
+requests
+pyserial
+lxml
