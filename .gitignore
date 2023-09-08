@@ -8,4 +8,4 @@ __pycache__/
 .vscode/
 
 #ignore any local data
-.Data/
+Data/
